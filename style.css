@@ -4,7 +4,7 @@
 }
 
 .cabeçalho {
-    background-color: #0c2202;
+    background-color: #173F05;
     color: white;
     display: flex;
     justify-content: space-around;
@@ -20,4 +20,14 @@
     display: inline-block;
     margin: 0% 16px;
     font-size: 20px;
+}
+
+.escola-imagem{
+    width: 25%;
+}
+
+.escola{
+background-image: linear-gradient(#173F05,#4AB01A);
+color: black;
+display: flex;
 }
